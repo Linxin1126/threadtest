@@ -1,13 +1,14 @@
 package com.lx.aomics.atomicarray;
 
-import jdk.nashorn.internal.objects.NativeObject;
 
 import java.util.concurrent.atomic.AtomicIntegerArray;
 
 /**
  * @Description:
+ *
  *      AtomicIntegerArray的基本操作
  *      原子更新数组
+ *
  * @Author: LinXin_
  * @CreateTime: 2021/4/14 16:25
  */
