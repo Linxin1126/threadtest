@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fca6983f-ad72-4243-8a01-696395d96078" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1quwgdNWdI7kSnm8uMRNp21ugbs" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.48390806" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lx.threadpool" />
+      <recent name="com.lx.lock.readwrite" />
+      <recent name="com.lx.lock.condition" />
+      <recent name="com.lx.producerstack" />
+      <recent name="com.lx.producerdata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppleB">
+    <configuration name="AppleB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.AppleB" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lx.threadpool.Test09" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lx.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppleB" />
+        <item itemvalue="Application.Test09" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca6983f-ad72-4243-8a01-696395d96078" name="Default Changelist" comment="" />
+      <created>1617942896519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617942896519</updated>
+      <workItem from="1617942897928" duration="18710000" />
+      <workItem from="1618038549329" duration="6183000" />
+      <workItem from="1618130245649" duration="4919000" />
+      <workItem from="1618203959245" duration="19710000" />
+      <workItem from="1618383984622" duration="2080000" />
+      <workItem from="1618386121722" duration="11392000" />
+      <workItem from="1618465021096" duration="35446000" />
+      <workItem from="1618623560817" duration="48461000" />
+      <workItem from="1618885621804" duration="11161000" />
+      <workItem from="1619011406835" duration="21069000" />
+      <workItem from="1619228641896" duration="16665000" />
+      <workItem from="1619332212538" duration="4085000" />
+      <workItem from="1619354884337" duration="200000" />
+      <workItem from="1619355229191" duration="458000" />
+      <workItem from="1619355899971" duration="86000" />
+      <workItem from="1619356000058" duration="26000" />
+      <workItem from="1619356037226" duration="600000" />
+      <workItem from="1619356762587" duration="141000" />
+      <workItem from="1619356923897" duration="60000" />
+      <workItem from="1619356997719" duration="8000" />
+      <workItem from="1619357025741" duration="136000" />
+      <workItem from="1619412083821" duration="59000" />
+      <workItem from="1619412161110" duration="89000" />
+      <workItem from="1619412283154" duration="26000" />
+      <workItem from="1619416023743" duration="518000" />
+      <workItem from="1619433315705" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

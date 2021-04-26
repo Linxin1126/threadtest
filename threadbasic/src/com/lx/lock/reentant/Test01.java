@@ -1,0 +1,41 @@
+package com.lx.lock.reentant;
+
+/**
+ * @Description:演示锁的可重入性
+ * @Author: LinXin_
+ * @CreateTime: 2021/4/17 14:54
+ */
+public class Test01 {
+    /*
+        当前线程执行sm1()方法，默认this作为锁对象，在sm1()方法中调用了sm2()方法，
+        注意当前线程还是持有this锁对象的，sm2()同步方法默认的锁对象也是this对象，
+        要执行sm2()必须先获得this锁对象，当前this对象被当前线程持有，可以再次获得this对象，
+        这就是锁的可重入性。
+        假设锁不可重入的话，可能会造成死锁。
+     */
+    public synchronized void sm1() {
+        System.out.println("同步方法1。。。");
+        sm2();
+
+    }
+    public synchronized void sm2() {
+        System.out.println("同步方法2。。。");
+        sm3();
+
+    }
+    public synchronized void sm3() {
+        System.out.println("同步方法3。。。");
+
+    }
+
+    public static void main(String[] args) {
+        Test01 obj = new Test01();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                obj.sm1();
+            }
+        }).start();
+    }
+
+}
